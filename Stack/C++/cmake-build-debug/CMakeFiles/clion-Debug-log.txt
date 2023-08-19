@@ -1,0 +1,4 @@
+"D:\Program Files\Clion\2023\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Program Files/Clion/2023/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Stack\C++ -B C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Stack\C++\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Leandro/OneDrive/DELT4D/AULAS/DATA_STRUCTURE/Stack/C++/cmake-build-debug
