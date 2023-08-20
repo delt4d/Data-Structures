@@ -3,7 +3,7 @@
 #include <vector>
 
 template <typename T>
-void displayStacks(const Stack<T>& stack) {
+void display_stacks(const Stack<T>& stack) {
     size_t size;
     int *array = stack.toArray(size);
 
@@ -22,7 +22,7 @@ int main(int argc, char* argv[])
     bool stop = false;
 
     while (!stop) {
-        displayStacks(stack);
+        display_stacks(stack);
 
         std::cout << "1) Push\n";
         std::cout << "2) Pop\n";
