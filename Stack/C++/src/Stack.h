@@ -18,4 +18,4 @@ public:
 
 #include "stack.cpp" // Include template implementation
 
-#endif // STACK_H
+#endif

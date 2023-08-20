@@ -1,5 +1,5 @@
-#ifndef C___NODE_H
-#define C___NODE_H
+#ifndef NODE_H
+#define NODE_H
 
 template <typename T>
 class Node
@@ -12,4 +12,4 @@ public:
 
 #include "Node.cpp"
 
-#endif //C___NODE_H
+#endif
