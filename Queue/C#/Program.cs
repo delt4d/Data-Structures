@@ -1,6 +1,6 @@
 ﻿using C_;
 
-void FindNode<T>(MyQueue<T> queue, T num)
+static void FindNode<T>(MyQueue<T> queue, T num)
 {
     var result = queue.Query(num, out var currentNode, out var previousNode);
 
