@@ -11,11 +11,6 @@ namespace C_
             End = null;
         }
 
-        public Node<T> GetNode()
-        {
-            return new Node<T>(default);
-        }
-
         public Node<T> GetNode(T value)
         {
             return new Node<T>(value);
