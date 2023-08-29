@@ -1,0 +1,14 @@
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\bin\Debug\net6.0\C#.exe
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\bin\Debug\net6.0\C#.deps.json
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\bin\Debug\net6.0\C#.runtimeconfig.json
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\bin\Debug\net6.0\C#.dll
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\bin\Debug\net6.0\C#.pdb
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\obj\Debug\net6.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\obj\Debug\net6.0\C#.AssemblyInfoInputs.cache
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\obj\Debug\net6.0\C#.AssemblyInfo.cs
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\obj\Debug\net6.0\C#.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\obj\Debug\net6.0\C#.dll
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\obj\Debug\net6.0\refint\C#.dll
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\obj\Debug\net6.0\C#.pdb
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\obj\Debug\net6.0\C#.genruntimeconfig.cache
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\obj\Debug\net6.0\ref\C#.dll
