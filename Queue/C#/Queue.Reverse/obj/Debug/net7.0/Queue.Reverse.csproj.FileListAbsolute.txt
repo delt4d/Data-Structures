@@ -1,0 +1,14 @@
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.Reverse\bin\Debug\net7.0\Queue.Reverse.exe
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.Reverse\bin\Debug\net7.0\Queue.Reverse.deps.json
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.Reverse\bin\Debug\net7.0\Queue.Reverse.runtimeconfig.json
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.Reverse\bin\Debug\net7.0\Queue.Reverse.dll
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.Reverse\bin\Debug\net7.0\Queue.Reverse.pdb
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.Reverse\obj\Debug\net7.0\Queue.Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.Reverse\obj\Debug\net7.0\Queue.Reverse.AssemblyInfoInputs.cache
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.Reverse\obj\Debug\net7.0\Queue.Reverse.AssemblyInfo.cs
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.Reverse\obj\Debug\net7.0\Queue.Reverse.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.Reverse\obj\Debug\net7.0\Queue.Reverse.dll
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.Reverse\obj\Debug\net7.0\refint\Queue.Reverse.dll
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.Reverse\obj\Debug\net7.0\Queue.Reverse.pdb
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.Reverse\obj\Debug\net7.0\Queue.Reverse.genruntimeconfig.cache
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.Reverse\obj\Debug\net7.0\ref\Queue.Reverse.dll

@@ -1,0 +1,14 @@
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.WithoutNegatives\bin\Debug\net7.0\Queue.WithoutNegatives.exe
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.WithoutNegatives\bin\Debug\net7.0\Queue.WithoutNegatives.deps.json
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.WithoutNegatives\bin\Debug\net7.0\Queue.WithoutNegatives.runtimeconfig.json
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.WithoutNegatives\bin\Debug\net7.0\Queue.WithoutNegatives.dll
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.WithoutNegatives\bin\Debug\net7.0\Queue.WithoutNegatives.pdb
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.WithoutNegatives\obj\Debug\net7.0\Queue.WithoutNegatives.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.WithoutNegatives\obj\Debug\net7.0\Queue.WithoutNegatives.AssemblyInfoInputs.cache
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.WithoutNegatives\obj\Debug\net7.0\Queue.WithoutNegatives.AssemblyInfo.cs
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.WithoutNegatives\obj\Debug\net7.0\Queue.WithoutNegatives.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.WithoutNegatives\obj\Debug\net7.0\Queue.WithoutNegatives.dll
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.WithoutNegatives\obj\Debug\net7.0\refint\Queue.WithoutNegatives.dll
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.WithoutNegatives\obj\Debug\net7.0\Queue.WithoutNegatives.pdb
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.WithoutNegatives\obj\Debug\net7.0\Queue.WithoutNegatives.genruntimeconfig.cache
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.WithoutNegatives\obj\Debug\net7.0\ref\Queue.WithoutNegatives.dll

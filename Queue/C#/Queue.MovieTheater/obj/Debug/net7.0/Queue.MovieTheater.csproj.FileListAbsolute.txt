@@ -1,0 +1,14 @@
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.MovieTheater\obj\Debug\net7.0\Queue.MovieTheater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.MovieTheater\obj\Debug\net7.0\Queue.MovieTheater.AssemblyInfoInputs.cache
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.MovieTheater\obj\Debug\net7.0\Queue.MovieTheater.AssemblyInfo.cs
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.MovieTheater\obj\Debug\net7.0\Queue.MovieTheater.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.MovieTheater\bin\Debug\net7.0\Queue.MovieTheater.exe
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.MovieTheater\bin\Debug\net7.0\Queue.MovieTheater.deps.json
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.MovieTheater\bin\Debug\net7.0\Queue.MovieTheater.runtimeconfig.json
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.MovieTheater\bin\Debug\net7.0\Queue.MovieTheater.dll
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.MovieTheater\bin\Debug\net7.0\Queue.MovieTheater.pdb
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.MovieTheater\obj\Debug\net7.0\Queue.MovieTheater.dll
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.MovieTheater\obj\Debug\net7.0\refint\Queue.MovieTheater.dll
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.MovieTheater\obj\Debug\net7.0\Queue.MovieTheater.pdb
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.MovieTheater\obj\Debug\net7.0\Queue.MovieTheater.genruntimeconfig.cache
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C#\Queue.MovieTheater\obj\Debug\net7.0\ref\Queue.MovieTheater.dll
