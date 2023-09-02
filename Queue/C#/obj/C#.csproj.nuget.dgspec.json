@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leandro\\OneDrive\\DELT4D\\AULAS\\DATA_STRUCTURE\\Queue\\C#\\C#.csproj": {}
+    "c:\\Users\\Leandro\\OneDrive\\DELT4D\\AULAS\\DATA_STRUCTURE\\Queue\\C#\\C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leandro\\OneDrive\\DELT4D\\AULAS\\DATA_STRUCTURE\\Queue\\C#\\C#.csproj": {
+    "c:\\Users\\Leandro\\OneDrive\\DELT4D\\AULAS\\DATA_STRUCTURE\\Queue\\C#\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leandro\\OneDrive\\DELT4D\\AULAS\\DATA_STRUCTURE\\Queue\\C#\\C#.csproj",
+        "projectUniqueName": "c:\\Users\\Leandro\\OneDrive\\DELT4D\\AULAS\\DATA_STRUCTURE\\Queue\\C#\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "C:\\Users\\Leandro\\OneDrive\\DELT4D\\AULAS\\DATA_STRUCTURE\\Queue\\C#\\C#.csproj",
+        "projectPath": "c:\\Users\\Leandro\\OneDrive\\DELT4D\\AULAS\\DATA_STRUCTURE\\Queue\\C#\\C#.csproj",
         "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leandro\\OneDrive\\DELT4D\\AULAS\\DATA_STRUCTURE\\Queue\\C#\\obj\\",
+        "outputPath": "c:\\Users\\Leandro\\OneDrive\\DELT4D\\AULAS\\DATA_STRUCTURE\\Queue\\C#\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

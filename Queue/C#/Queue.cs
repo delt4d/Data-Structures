@@ -21,6 +21,20 @@ namespace C_
             return this.Start == null || this.End == null;
         }
 
+        public int GetQueueLength()
+        {
+            Node<T>? node = this.Start;
+            int count = 0;
+
+            while (node != null)
+            {
+                count++;
+                node = node.Next;
+            }
+
+            return count;
+        }
+
         public void Insert(T value)
         {
             Node<T> node = new(value);
