@@ -3,6 +3,7 @@
 
 #include "Queue.h"
 #include "Node.h"
+#include <cstddef>
 
 template <typename T>
 Queue<T>::~Queue() {
@@ -51,16 +52,17 @@ bool Queue<T>::is_empty() {
 }
 
 template <typename T>
-bool Queue<T>::query(const T value, Node<T>* currentNode, Node<T>* previousNode) {
-    currentNode = start;
+bool Queue<T>::query(const T value, Node<T>** currentNode, Node<T>** previousNode) const {
+    *currentNode = start;
+    *previousNode = nullptr;
 
-    while (currentNode != nullptr) {
-        if (currentNode->value == value) {
+    while (*currentNode != nullptr) {
+        if ((*currentNode)->value == value) {
             return true;
         }
 
-        previousNode = currentNode;
-        currentNode = currentNode->next;
+        *previousNode = *currentNode;
+        *currentNode = (*currentNode)->next;
     }
 
     return false;
@@ -69,7 +71,7 @@ bool Queue<T>::query(const T value, Node<T>* currentNode, Node<T>* previousNode)
 template <typename T>
 T* Queue<T>::toArray(size_t& size) const {
     size = 0;
-    Node<T>* current = top;
+    Node<T>* current = start;
 
     while (current != nullptr)
     {
@@ -78,7 +80,7 @@ T* Queue<T>::toArray(size_t& size) const {
     }
 
     T* values = new T[size];
-    current = top;
+    current = start;
     int index = 0;
 
     while (current != nullptr)

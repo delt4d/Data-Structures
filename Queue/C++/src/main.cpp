@@ -16,6 +16,21 @@ void display_queues(const Queue<T>& queue) {
     delete [] array;
 }
 
+template <typename T>
+void query(const Queue<T>& queue, T value) {
+    Node<T>* currentNode = nullptr;
+    Node<T>* previousNode = nullptr;
+
+    bool found = queue.query(value, &currentNode, &previousNode);
+
+    std::cout << "FOUND: " << (found ? "YES" : "NO") << std::endl;
+    
+    if (found == true) {
+        std::cout << "FOUND NODE: " << currentNode->value << "\n";
+        if (previousNode != nullptr) std::cout << "PREVIOUS NODE: " << previousNode->value << "\n";
+    }
+}
+
 int main() {
     auto queue = Queue<int>();
     bool stop = false;
@@ -25,14 +40,14 @@ int main() {
 
         std::cout << "1) Enqueue\n";
         std::cout << "2) Dequeue\n";
-        std::cout << "3) Exit\n:";
+        std::cout << "3) Find\n";
+        std::cout << "4) Exit\n:";
 
-        int option;
+        int option, value;
         std::cin >> option;
 
         switch (option) {
             case 1:
-                int value;
                 std::cin >> value;
                 queue.enqueue(value);
                 break;
@@ -40,6 +55,10 @@ int main() {
                 std::cout << queue.dequeue() << std::endl;
                 break;
             case 3:
+                std::cin >> value;
+                query(queue, value);
+                break;
+            case 4:
                 stop = true;
                 break;
             default:

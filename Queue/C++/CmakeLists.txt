@@ -3,4 +3,10 @@ project(C__)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(C__ src/main.cpp src/Node.cpp src/Node.h src/Queue.cpp src/Queue.h)
+set(SOURCES
+    src/main.cpp
+    src/Node.cpp
+    src/Queue.cpp
+)
+
+add_executable(C__ ${SOURCES})
