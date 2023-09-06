@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C++\build\CMakeFiles\c6ae90c1011388c50d6831d5e6140685\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3BF10CAD-43EA-34A7-9324-CB60224EF1B3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

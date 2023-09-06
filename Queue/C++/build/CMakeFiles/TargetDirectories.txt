@@ -1,0 +1,3 @@
+C:/Users/Leandro/OneDrive/DELT4D/AULAS/DATA_STRUCTURE/Queue/C++/build/CMakeFiles/C__.dir
+C:/Users/Leandro/OneDrive/DELT4D/AULAS/DATA_STRUCTURE/Queue/C++/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Leandro/OneDrive/DELT4D/AULAS/DATA_STRUCTURE/Queue/C++/build/CMakeFiles/ZERO_CHECK.dir

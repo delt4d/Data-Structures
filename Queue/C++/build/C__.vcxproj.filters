@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C++\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C++\src\Node.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C++\src\Queue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C++\src\Node.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C++\src\Queue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Leandro\OneDrive\DELT4D\AULAS\DATA_STRUCTURE\Queue\C++\CmakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{453BFA0A-AB96-36DF-896F-5E27D11C1621}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{04A57EB9-64C7-3D34-8899-68C30D809215}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
