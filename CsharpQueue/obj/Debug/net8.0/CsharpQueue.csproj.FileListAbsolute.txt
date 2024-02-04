@@ -1,0 +1,15 @@
+C:\Users\Leandro\Downloads\Data-Structures\CsharpQueue\bin\Debug\net8.0\CsharpQueue.exe
+C:\Users\Leandro\Downloads\Data-Structures\CsharpQueue\bin\Debug\net8.0\CsharpQueue.deps.json
+C:\Users\Leandro\Downloads\Data-Structures\CsharpQueue\bin\Debug\net8.0\CsharpQueue.runtimeconfig.json
+C:\Users\Leandro\Downloads\Data-Structures\CsharpQueue\bin\Debug\net8.0\CsharpQueue.dll
+C:\Users\Leandro\Downloads\Data-Structures\CsharpQueue\bin\Debug\net8.0\CsharpQueue.pdb
+C:\Users\Leandro\Downloads\Data-Structures\CsharpQueue\obj\Debug\net8.0\CsharpQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Downloads\Data-Structures\CsharpQueue\obj\Debug\net8.0\CsharpQueue.AssemblyInfoInputs.cache
+C:\Users\Leandro\Downloads\Data-Structures\CsharpQueue\obj\Debug\net8.0\CsharpQueue.AssemblyInfo.cs
+C:\Users\Leandro\Downloads\Data-Structures\CsharpQueue\obj\Debug\net8.0\CsharpQueue.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Downloads\Data-Structures\CsharpQueue\obj\Debug\net8.0\CsharpQueue.sourcelink.json
+C:\Users\Leandro\Downloads\Data-Structures\CsharpQueue\obj\Debug\net8.0\CsharpQueue.dll
+C:\Users\Leandro\Downloads\Data-Structures\CsharpQueue\obj\Debug\net8.0\refint\CsharpQueue.dll
+C:\Users\Leandro\Downloads\Data-Structures\CsharpQueue\obj\Debug\net8.0\CsharpQueue.pdb
+C:\Users\Leandro\Downloads\Data-Structures\CsharpQueue\obj\Debug\net8.0\CsharpQueue.genruntimeconfig.cache
+C:\Users\Leandro\Downloads\Data-Structures\CsharpQueue\obj\Debug\net8.0\ref\CsharpQueue.dll
