@@ -1,70 +1,47 @@
-namespace CsharpQueue;
+namespace CsharpStack;
 
-public class MyQueue<T>
+public class MyStack<T>
 {
-    private Node<T>? Start { get; set; }
-    private Node<T>? End { get; set; }
+    private Node<T>? Top { get; set; }
     private static Node<T> GetNode(T value) => new Node<T>(value);
 
-    public MyQueue()
+    public MyStack()
     {
-        Start = null;
-        End = null;
+        Top = null;
     }
 
     public bool IsEmpty()
     {
-        return Start == null || End == null;
+        return Top == null;
     }
 
-    public int Count()
+    public T? GetTop()
     {
-        var node = Start;
-
-        int count = 0;
-
-        while (node != null)
-        {
-            count++;
-            node = node.Next;
-        }
-
-        return count;
+        return !IsEmpty() ? Top!.Value : default;
     }
 
-    public void Insert(T value)
+    public void Push(T value)
     {
-        var node = new Node<T>(value);
-
-        if (IsEmpty())
-        {
-            Start = node;
-            End = node;
-            return;
-        }
-
-        End!.Next = node;
-        End = node;
+        var newNode = GetNode(value);
+        if (!IsEmpty()) newNode.Next = Top;
+        Top = newNode;
     }
 
-    public void Remove()
+    public T? Pop()
     {
         if (!IsEmpty())
         {
-            if (Start == End)
-            {
-                Start = null;
-                End = null;
-                return;
-            }
-
-            Start = Start!.Next;
+            var value = Top!.Value;
+            Top = Top.Next;
+            return value;
         }
+
+        return default;
     }
 
     public bool Query(T value, out Node<T>? currentNode, out Node<T>? previousNode)
     {
-        currentNode = Start;
+        currentNode = Top;
         previousNode = null;
 
         while (currentNode != null)
@@ -85,8 +62,8 @@ public class MyQueue<T>
     public override string ToString()
     {
         if (IsEmpty()) return "[]";
-        
-        Node<T>? aux = Start;
+
+        Node<T>? aux = Top;
 
         string result = "";
 

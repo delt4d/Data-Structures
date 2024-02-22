@@ -11,6 +11,7 @@ Console.WriteLine(queue.ToString() + "\n");
 
 queue.Remove();
 queue.Remove();
+queue.Remove();
 
 Console.WriteLine("Remove 3 elements");
 Console.WriteLine(queue.ToString() + "\n");
