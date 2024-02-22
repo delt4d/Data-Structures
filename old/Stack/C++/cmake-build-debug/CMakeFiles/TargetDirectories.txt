@@ -1,3 +1,0 @@
-C:/Users/Leandro/OneDrive/DELT4D/AULAS/DATA_STRUCTURE/Stack/C++/cmake-build-debug/CMakeFiles/C__.dir
-C:/Users/Leandro/OneDrive/DELT4D/AULAS/DATA_STRUCTURE/Stack/C++/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Leandro/OneDrive/DELT4D/AULAS/DATA_STRUCTURE/Stack/C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
